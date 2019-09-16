@@ -1,6 +1,6 @@
 # javaapplication1
 
-This is minin project implemented in java swing
+This is mini project implemented in java swing
 
 Postgresql is ued for databased connectivity
 
